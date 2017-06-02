@@ -1,0 +1,4 @@
+#Mon May 29 22:07:22 ICT 2017
+base.0=C\:\\Users\\HKR\\Documents\\GitHub\\TugasKuliah\\semester6\\Native-Groceries\\platforms\\android\\build\\intermediates\\transforms\\dex\\F0\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\HKR\\Documents\\GitHub\\TugasKuliah\\semester6\\Native-Groceries\\platforms\\android\\build\\intermediates\\transforms\\dex\\F0\\debug\\folders\\1000\\1f\\main\\classes.dex

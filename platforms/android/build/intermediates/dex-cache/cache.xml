@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\HKR\Documents\GitHub\TugasKuliah\semester6\Native-Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\HKR\Documents\GitHub\TugasKuliah\semester6\Native-Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-v4-25.3.1_9a9c83f0f0de040fc62af23a2d2bc7ce1faa53b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HKR\Documents\GitHub\TugasKuliah\semester6\Native-Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\HKR\Documents\GitHub\TugasKuliah\semester6\Native-Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-media-compat-25.3.1_1f77ae6d9cd527ea0797913ae06a0c1b02b83a4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HKR\Documents\GitHub\TugasKuliah\semester6\Native-Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\HKR\Documents\GitHub\TugasKuliah\semester6\Native-Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-utils-25.3.1_6c297f2201ae734b5ec7ecf16d2bba3a65a7421d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HKR\Documents\GitHub\TugasKuliah\semester6\Native-Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\HKR\Documents\GitHub\TugasKuliah\semester6\Native-Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-vector-drawable-25.3.1_d65b26eaf3f4d429b94a4bb22b3169af99ed5366.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HKR\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\HKR\Documents\GitHub\TugasKuliah\semester6\Native-Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\support-annotations-25.3.1_92995315a30fdc0fb1f7bc6de2451e2ffe886e7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HKR\Documents\GitHub\TugasKuliah\semester6\Native-Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\HKR\Documents\GitHub\TugasKuliah\semester6\Native-Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-animated-vector-drawable-25.3.1_f42a1c777730a1b0780ccd0124d5f9415b2ede74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HKR\Documents\GitHub\TugasKuliah\semester6\Native-Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\HKR\Documents\GitHub\TugasKuliah\semester6\Native-Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-transition-25.3.1_13b033de794cf0ca6ee42174936d8c786e47e7f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HKR\Documents\GitHub\TugasKuliah\semester6\Native-Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\HKR\Documents\GitHub\TugasKuliah\semester6\Native-Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-recyclerview-v7-25.3.1_d2e19d8e7478affac27d0443f58026a0b7d0c5ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HKR\Documents\GitHub\TugasKuliah\semester6\Native-Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\HKR\Documents\GitHub\TugasKuliah\semester6\Native-Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-fragment-25.3.1_cea5d4a8302bb1ce94be7ddb5c66e6281cf6e1b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HKR\Documents\GitHub\TugasKuliah\semester6\Native-Groceries\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ed69cd5603304a6fc9a36a94c8be977a1d0e4857">
+        <dex dex="C:\Users\HKR\Documents\GitHub\TugasKuliah\semester6\Native-Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\intermediates-exploded-aar-widgets-release_482176b5d8062bf8c0069c59135c197e1a384add.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HKR\Documents\GitHub\TugasKuliah\semester6\Native-Groceries\platforms\android\build\intermediates\exploded-aar\NativeGroceries\runtime\unspecified\jars\libs\binding-generator.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
+        <dex dex="C:\Users\HKR\Documents\GitHub\TugasKuliah\semester6\Native-Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\binding-generator_46150e6ea2a211a90866adf2bed6cd12a8a2e0a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HKR\Documents\GitHub\TugasKuliah\semester6\Native-Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\HKR\Documents\GitHub\TugasKuliah\semester6\Native-Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-appcompat-v7-25.3.1_0d45eb7d7dce548fd49bc84f942c5a1f65605960.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HKR\Documents\GitHub\TugasKuliah\semester6\Native-Groceries\platforms\android\build\intermediates\exploded-aar\NativeGroceries\runtime\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e45d63bd91f9a51a9e6f9c96be7a01deb415690">
+        <dex dex="C:\Users\HKR\Documents\GitHub\TugasKuliah\semester6\Native-Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\NativeGroceries-runtime-unspecified_99431c66ea65a005771a7a7b9b2946e6da1fac42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HKR\Documents\GitHub\TugasKuliah\semester6\Native-Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\HKR\Documents\GitHub\TugasKuliah\semester6\Native-Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-design-25.3.1_1dc171c8209411d31fe359c140402a4f72a83fae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HKR\Documents\GitHub\TugasKuliah\semester6\Native-Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\HKR\Documents\GitHub\TugasKuliah\semester6\Native-Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-compat-25.3.1_71f788b039f1fdee2b815515a2a3165ddd3f0a14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HKR\Documents\GitHub\TugasKuliah\semester6\Native-Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\HKR\Documents\GitHub\TugasKuliah\semester6\Native-Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-ui-25.3.1_fe4c24bfd7cd85efcb8218b7838049169c04494b.jar" />
+    </item>
+
+</items>
